@@ -6,6 +6,9 @@ Protótipo responsivo de uma empresa fictícia de tecnologia e eletrônicos, des
 
 Abra `index.html` em um navegador com conexão à internet. O protótipo usa o Play CDN oficial do Tailwind v4 e Google Fonts; os produtos são demonstrativos e as fotografias reais são carregadas do Unsplash. O Play CDN é indicado para desenvolvimento e prototipação, não para produção.
 
+## Link de Acesso 
+https://geovanarlx.github.io/ELETRONICOS-E-INFORMATICA-PORAL/
+
 ## Marca
 
 O sistema de identidade, a logo original em SVG, a paleta, tipografia, voz e direção visual estão documentados em [`BRAND.md`](BRAND.md).
